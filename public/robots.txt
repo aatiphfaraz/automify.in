@@ -1,0 +1,12 @@
+# robots.txt for automify.in
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+
+# Sitemap
+Sitemap: https://automify.in/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 1
